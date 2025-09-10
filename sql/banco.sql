@@ -26,3 +26,4 @@ CREATE TABLE post (
 );
 
 SELECT * FROM usuario;
+SELECT * FROM post;
